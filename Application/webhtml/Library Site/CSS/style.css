@@ -1,0 +1,118 @@
+body{
+  background-color: #b3bbcb;
+}
+h2 {
+  color: #944ba5;
+  font-family: Comic Sans MS;
+  font-size: 300%;
+  font-weight: bold;
+}
+h3 {
+  color: #944ba5;
+  font-family: Comic Sans MS;
+  font-size: 150%;
+  font-weight: bold;
+}
+p {
+  color: #000000;
+  font-family: Comic Sans MS;
+  font-size: 100%;
+  border: 2px solid powderblue;
+}
+
+
+
+
+/* Set height of body and the document to 100% to enable "full page tabs" */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Comic Sans MS;
+}
+
+/* Style tab links */
+.tablinks1 {
+  background-color: #ffda27;
+  color: #944ba5;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-family: Comic Sans MS;
+  font-size: 17px;
+  font-weight: bold;
+  width: 25%;
+}
+.tablinks2 {
+  background-color: #ffda27;
+  color: #944ba5;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-family: Comic Sans MS;
+  font-size: 17px;
+  font-weight: bold;
+  width: 25%;
+}
+.tablinks3 {
+  background-color: #ffda27;
+  color: #944ba5;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-family: Comic Sans MS;
+  font-size: 17px;
+  font-weight: bold;
+  width: 25%;
+}
+.tablinks4 {
+  background-color: #ffda27;
+  color: #944ba5;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-family: Comic Sans MS;
+  font-size: 17px;
+  font-weight: bold;
+  width: 25%;
+}
+
+.tablinks1:hover {
+  background-color: #c6de69;
+}
+.tablinks2:hover {
+  background-color: #e7b1c2;
+}
+.tablinks3:hover {
+  background-color: #c7f6fe;
+}
+.tablinks4:hover {
+  background-color: #944ba5;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#About-Us {background-color: #c6de69;}
+#LC {background-color: #e7b1c2;}
+#Account {background-color: #c7f6fe;}
+#404 {background-color: #944ba5;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
